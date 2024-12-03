@@ -1,15 +1,15 @@
 {
     "name":"Minty Labs' VPM Repo",
     "id":"io.github.mintylabs.vpm",
-    "url":"https://mintylabs.github.io/vrc-vpm/index.json",
+    "url":"https://minty-labs.github.io/vrc-vpm/index.json",
     "author":{
         "name":"MintLily",
         "url":"https://github.com/MintLily"
     },
     "description":"A collection of Unity Tools made for VRChat in mind. — VRChatを念頭に置いて作られたUnityツールのコレクション。",
     "infoLink":{
-        "url":"https://github.com/MintyLabs/vrc-vpm",
-        "text":""
+        "url":"https://github.com/Minty-Labs/vrc-vpm",
+        "text":"Learn More about VPMs — VPMについて詳しく知る"
     },
     "bannerUrl":"",
     "githubRepos":[
