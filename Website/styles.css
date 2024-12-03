@@ -419,6 +419,7 @@ body {
 
 a {
   color: var(--dv_bright);
+  text-decoration: none;
 }
 
 .caption1 {
