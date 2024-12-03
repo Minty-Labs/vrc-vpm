@@ -1,0 +1,21 @@
+{
+    "name":"Minty Labs' VPM Repo",
+    "id":"io.github.mintylabs.vpm",
+    "url":"https://mintylabs.github.io/vrc-vpm/index.json",
+    "author":{
+        "name":"MintLily",
+        "url":"https://github.com/MintLily"
+    },
+    "description":"A collection of Unity Tools made for VRChat in mind. — VRChatを念頭に置いて作られたUnityツールのコレクション。",
+    "infoLink":{
+        "url":"https://github.com/MintyLabs/vrc-vpm",
+        "text":""
+    },
+    "bannerUrl":"",
+    "githubRepos":[
+        "Minty-Labs/Unity-Poiyomi-Upgrader",
+        "Minty-Labs/Unity-Animation-Toggle-Generator",
+        "Minty-Labs/Unity-Snapshot-Utility",
+        "Minty-Labs/Unity-Zip-Importer"
+    ]
+}

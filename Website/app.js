@@ -8,6 +8,7 @@ const PACKAGES = {
     name: "{{ package.Name }}",
     displayName: "{{ if package.DisplayName; package.DisplayName; end; }}",
     description: "{{ if package.Description; package.Description; end; }}",
+    lastUpdated: "{{ if package.lastUpdated; package.lastUpdated; end; }}",
     version: "{{ package.Version }}",
     author: {
       name: "{{ if package.Author.Name; package.Author.Name; end; }}",
