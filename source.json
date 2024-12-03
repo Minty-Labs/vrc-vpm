@@ -12,10 +12,5 @@
         "text":"Learn More about VPMs — VPMについて詳しく知る"
     },
     "bannerUrl":"https://raw.githubusercontent.com/Minty-Labs/vrc-vpm/refs/heads/main/Website/ml_banner.webp",
-    "githubRepos":[
-        "Minty-Labs/Unity-Poiyomi-Upgrader",
-        "Minty-Labs/Unity-Animation-Toggle-Generator",
-        "Minty-Labs/Unity-Snapshot-Utility",
-        "Minty-Labs/Unity-Zip-Importer"
-    ]
+    "githubRepos":[]
 }
