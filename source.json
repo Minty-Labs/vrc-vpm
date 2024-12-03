@@ -1,6 +1,6 @@
 {
     "name":"Minty Labs' VPM Repo",
-    "id":"io.github.mintylabs.vpm",
+    "id":"io.github.minty-labs.vrc-vpm",
     "url":"https://minty-labs.github.io/vrc-vpm/index.json",
     "author":{
         "name":"MintLily",
@@ -13,9 +13,6 @@
     },
     "bannerUrl":"",
     "githubRepos":[
-        "Minty-Labs/Unity-Poiyomi-Upgrader",
-        "Minty-Labs/Unity-Animation-Toggle-Generator",
-        "Minty-Labs/Unity-Snapshot-Utility",
-        "Minty-Labs/Unity-Zip-Importer"
+        
     ]
 }
